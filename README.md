@@ -1,2 +1,2 @@
 Readme for printf
-team project k & d
+team project K & D
