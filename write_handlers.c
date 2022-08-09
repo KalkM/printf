@@ -21,7 +21,7 @@ int handle_write_char(char c, char buffer[],
 	UNUSED(precision);
 	UNUSED(size);
 
-	if (flags & F_ZERO)
+	if (flags & F_ZERO) 
 		padd = '0';
 
 	buffer[i++] = c;
